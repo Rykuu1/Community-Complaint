@@ -63,7 +63,7 @@ client/src/
   pages/
     Login, Register, Settings, ComplaintDetail
     admin/  Overview, Users, Logs, Reports, Complaints
-    student/ Dashboard, NewComplaint, MyComplaints, Faq
+    student/ Dashboard, NewComplaint, MyComplaints, FAQ
 ```
 
 ## API
