@@ -80,3 +80,9 @@ client/src/
 | GET | /api/stats/admin, /api/stats/me | admin / signed in |
 | GET | /api/announcements | signed in |
 | POST, PUT, DELETE | /api/announcements | admin |
+
+
+Markdown
+## Contributors
+* Denmark Pelorina Escobañez
+* 
