@@ -85,4 +85,4 @@ client/src/
 Markdown
 ## Contributors
 * Denmark Pelorina Escobañez
-* 
+* Angeluv Adolfo- UI designer 
